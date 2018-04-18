@@ -11,6 +11,5 @@
     <orderEntry type="library" name="@types/node" level="application" />
     <orderEntry type="library" name="@types/npm" level="application" />
     <orderEntry type="library" name="@types/requirejs" level="application" />
-    <orderEntry type="library" name="Node.js Core Modules v." level="project" />
   </component>
 </module>
